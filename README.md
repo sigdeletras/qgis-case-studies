@@ -24,17 +24,17 @@ En primer lugar, el listado estará centrado en el uso de QGIS en la administrac
 - **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 
 
 #### Autonómico
-- Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias
+- Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias
 
 #### Nacional
-- **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec
+- **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec
 - **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco 
 
 
 ### America
-- Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html#
+- Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html#
 
 ### Europa
-- Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** http://logiciels.ign.fr/?-RIPart-QGIS-
+- Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS-
 
 
