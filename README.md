@@ -29,7 +29,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec
-- **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco 
+- **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco Sistema AMBEMAR DSS 📕 http://eemm.ihcantabria.com/wp-content/uploads/2017/11/AMBEMAR_Jornadas-EERR_17.pdf
 
 
 ### America
