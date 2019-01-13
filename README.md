@@ -19,6 +19,10 @@ En primer lugar, el listado estará centrado en el uso de QGIS en la administrac
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec
 
+#### Por clasificar
+- Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales @bgeo_opengis en @llicamunt https://vimeo.com/223107746  
+- **Gestión de redes de agua potable, saneamiento y drenaje urbano** con @Giswater y @qgis https://vimeo.com/223100457  https://vimeo.com/280905257  #QGISadmon
+
 
 ### America
 - Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)**¶ https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html#
