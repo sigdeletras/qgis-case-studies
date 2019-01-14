@@ -19,10 +19,11 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 
 #### Local
 - Cataluña. **"Implementación de QGIS en el ayuntamiento de Sant Sadurní d'Anoia"** 📕http://www.sigte.udg.edu/jornadassiglibre2014/uploads/2014/abstracts/r20.pdf 🎥 https://vimeo.com/91497886 [Tuit @SIGdeletras](https://twitter.com/SIGdeletras/status/1084057749900718080)
-- Cataluña. **"Tecnologías libres e integraciones para un SIG municipal. El caso de Vilablareix.** Ayuntamiento de Vilablareix. 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2014/09/sig_municipal_vilablareix.pdf
+- Cataluña. **"Tecnologías libres e integraciones para un SIG municipal. El caso de Vilablareix.** Ayuntamiento de Vilablareix. 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2014/09/sig_municipal_vilablareix.pdf [Tuit GIS4tech_UGR](https://twitter.com/GIS4tech_UGR/status/1084375118258888712)
 - **Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  [Tuit @jllsal](https://twitter.com/jllsala/status/1084408381732016128)
 - **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257 [Tuit @jllsal](https://twitter.com/jllsala/status/1084410209685114880)
 - **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
+- Andalucía. **"Callejero digital Ayuntamiento roquetas de Mar"** 📄 https://www.telealmerianoticias.es/roquetas-de-mar-el-ayuntamiento-trabaja-en-un-callejero-digital-unificado/
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
