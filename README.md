@@ -34,6 +34,8 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 
 ### America
 - Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html#
+- Honduras. SIG Municipal
+- Honduras. Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras.
 
 ### Europa
 - Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS-
