@@ -18,11 +18,11 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 ### España
 
 #### Local
-- Cataluña. **"Implementación de QGIS en el ayuntamiento de Sant Sadurní d'Anoia"** 📕http://www.sigte.udg.edu/jornadassiglibre2014/uploads/2014/abstracts/r20.pdf 🎥 https://vimeo.com/91497886
+- Cataluña. **"Implementación de QGIS en el ayuntamiento de Sant Sadurní d'Anoia"** 📕http://www.sigte.udg.edu/jornadassiglibre2014/uploads/2014/abstracts/r20.pdf 🎥 https://vimeo.com/91497886 [Tuit @SIGdeletras](https://twitter.com/SIGdeletras/status/1084057749900718080)
 - Cataluña. **"Tecnologías libres e integraciones para un SIG municipal. El caso de Vilablareix.** Ayuntamiento de Vilablareix. 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2014/09/sig_municipal_vilablareix.pdf
-- **Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  
-- **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257
-- **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf
+- **Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  [Tuit @jllsal](https://twitter.com/jllsala/status/1084408381732016128)
+- **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257 [Tuit @jllsal](https://twitter.com/jllsala/status/1084410209685114880)
+- **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias
@@ -33,9 +33,9 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 
 
 ### America
-- Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html#
+- Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html# [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084615371703926789)
 - Honduras. SIG Municipal
-- Honduras. Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras.
+- Honduras. Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras. [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084616445198254080)
 
 ### Europa
 - Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS-
