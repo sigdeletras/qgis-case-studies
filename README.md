@@ -40,6 +40,6 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 - En #Pergamino (Buenos Aires, Argentina), para cargar y editar datos en la http://ide.pergamino.gob.ar  usamos #QGIS. En la pestaña Descargas tenemos un manual publicado al respecto, de propia autoría CC 4.0. Estamos en https://www.facebook.com/pg/idepergamino/posts/ …, https://www.instagram.com/idepergamino/?hl=es … y @idepergamino [Tuit @federicogazaba](https://twitter.com/federicogazaba/status/1084433643693588480)
 
 ### Europa
-- Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS- [Tuit @fran_raga](https://twitter.com/fran_raga/status/1084086364155588608]
+- Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS- [Tuit @fran_raga](https://twitter.com/fran_raga/status/1084086364155588608)
 
 
