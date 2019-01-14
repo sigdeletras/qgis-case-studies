@@ -27,6 +27,8 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
+- La Rioja **Inventario de Frutales. Control con Python requisitos del modelo para encaje de datos producidos en la BD Oracle Spatial**  desarrollado x @panoimagen & @RiojaDigital [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
+- La Rioja **Diseño de pistas forestale**  https://plugins.qgis.org/plugins/forestroaddesigner/ desarrollado x @panoimagen & @RiojaDigital [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec [Tuit ](https://twitter.com/fran_raga/status/1084084861831393280)
