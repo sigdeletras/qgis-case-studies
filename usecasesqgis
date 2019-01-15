@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Spain",
+        "Level": "Regional",
+        "Region": "La Rioja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4224853515625,
+          42.31184652369511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Spain",
+        "Level": "Regional",
+        "Region": "La Rioja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33734130859375,
+          42.261049162113856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Spain",
+        "Level": "Local",
+        "Region": "Cataluña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7859649658203125,
+          41.42651062070116
+        ]
+      }
+    }
+  ]
+}
