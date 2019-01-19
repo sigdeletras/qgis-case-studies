@@ -4,9 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "Country": "Spain",
+        "Project": "Project",
+        "Place": "La Rioja",
         "Level": "Regional",
-        "Region": "La Rioja"
+        "Country": "Spain",
+        "Developed at": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -19,9 +22,12 @@
     {
       "type": "Feature",
       "properties": {
-        "Country": "Spain",
+        "Project": "Project",
+        "Place": "La Rioja",
         "Level": "Regional",
-        "Region": "La Rioja"
+        "Country": "Spain",
+        "Developed at": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -34,15 +40,54 @@
     {
       "type": "Feature",
       "properties": {
+        "Project": "Project",
+        "Place": "Cataluña",
+        "Level": "Municipaly",
         "Country": "Spain",
-        "Level": "Local",
-        "Region": "Cataluña"
+        "Developed at": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.7859649658203125,
           41.42651062070116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "EIEL",
+        "Place": "Málaga",
+        "Level": "Municipaly",
+        "Country": "Spain",
+        "Developed at": "Fisotec",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.421181678771973,
+          36.721445874615355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Callejero Municipal",
+        "Place": "Roequetas de Mar (Almería)",
+        "Level": "Municipaly",
+        "Country": "Spain",
+        "Developed at": "Ayuntamiento de Roquetas de Mar",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6114845275878906,
+          36.762954093921095
         ]
       }
     }
