@@ -408,7 +408,7 @@
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer geometry="Point" simplifyMaxScale="1" refreshOnNotifyEnabled="0" type="vector" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" simplifyDrawingHints="0" autoRefreshTime="0" simplifyLocal="1" maxScale="0" labelsEnabled="1" readOnly="0" minScale="1e+8" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0" simplifyAlgorithm="0" simplifyDrawingTol="1">
+    <maplayer geometry="Point" simplifyMaxScale="1" refreshOnNotifyEnabled="0" type="vector" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" simplifyDrawingHints="0" autoRefreshTime="0" simplifyLocal="1" maxScale="0" labelsEnabled="0" readOnly="0" minScale="1e+8" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0" simplifyAlgorithm="0" simplifyDrawingTol="1">
       <extent>
         <xmin>-87.20634567578976259</xmin>
         <ymin>-33.89427172862394855</ymin>
