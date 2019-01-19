@@ -29,6 +29,7 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 - Andalucía. **"Callejero digital Ayuntamiento Roquetas de Mar"** 📄 https://www.telealmerianoticias.es/roquetas-de-mar-el-ayuntamiento-trabaja-en-un-callejero-digital-unificado/
 - Andalucía. **Diputación de Málaga. Gestión de EIEL y módulo de gestión con el visor web**. Desarrollado por @Fisotec. 
 - Andalucía. **Ayuntamiento de la Línea de la Concepción. GIS municipal y desarrollo de plugins**. Desarrollado por @Fisotec. 
+- Andalucía. **SIG para Registro Municipal de Solares y Edificios ruinoso**. Gerencia Municipal de Urbanismo de Córdoba. Desarrollado por @SIGdeletras http://www.sigdeletras.com/2017/inventario-sig-para-registro-municipal-de-solares-y-edificios-ruinosos-trabajosgeograficos/. 
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
