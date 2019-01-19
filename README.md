@@ -14,6 +14,9 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.c
 1. 📄 Web
 
 ## Casos de uso
+<script src="https://geowe.org/ogv/embed?geojson=https://raw.githubusercontent.com/geowe/geodata/master/general/https://raw.githubusercontent.com/sigdeletras/qgis-case-studies/master/geo/usecasesqgis.geojson&cluster=true&basemap=carto"></script>
+
+Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.githubusercontent.com/geowe/geodata/master/general/https://raw.githubusercontent.com/sigdeletras/qgis-case-studies/master/geo/usecasesqgis.geojson&cluster=true&basemap=carto)
 
 ### España
 
