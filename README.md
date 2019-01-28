@@ -30,6 +30,7 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 - Andalucía. **Diputación de Málaga. Gestión de EIEL y módulo de gestión con el visor web**. Desarrollado por @Fisotec. 
 - Andalucía. **Ayuntamiento de la Línea de la Concepción. GIS municipal y desarrollo de plugins**. Desarrollado por @Fisotec. 
 - Andalucía. **SIG para Registro Municipal de Solares y Edificios ruinoso**. Gerencia Municipal de Urbanismo de Córdoba. Desarrollado por @SIGdeletras http://www.sigdeletras.com/2017/inventario-sig-para-registro-municipal-de-solares-y-edificios-ruinosos-trabajosgeograficos/. 
+- Aragón. Redacción del **Plan de Interés General de Aragón para la implantación de una plataforma agroalimentaria en Épila (Zaragoza)** http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/VertebracionTerritorioMovilidadVivienda/NP/plataforma_agro_epila [Tuit @xabalbi](https://twitter.com/xabalbi/status/1085538825693290496)
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
@@ -43,10 +44,12 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 
 ### America
 - Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html# 
-- Honduras. SIG Municipal [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084615371703926789)
-- Honduras. Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras. [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084616445198254080)
-- En #Pergamino (Buenos Aires, Argentina), para cargar y editar datos en la http://ide.pergamino.gob.ar  usamos #QGIS. En la pestaña Descargas tenemos un manual publicado al respecto, de propia autoría CC 4.0. Estamos en https://www.facebook.com/pg/idepergamino/posts/ …, https://www.instagram.com/idepergamino/?hl=es … y @idepergamino [Tuit @federicogazaba](https://twitter.com/federicogazaba/status/1084433643693588480)
-
+- Honduras. **SIG Municipal** [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084615371703926789)
+- Honduras. **Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras**. [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084616445198254080)
+- Argentina. Pergamino (Buenos Aires, Argentina) **Carga y edición de datos en la http://ide.pergamino.gob.ar** https://www.facebook.com/pg/idepergamino/posts/ …, https://www.instagram.com/idepergamino/?hl=es … y @idepergamino [Tuit @federicogazaba](https://twitter.com/federicogazaba/status/1084433643693588480)
+- Colombia. **Plugin de QGIS que ayuda a capturar y mantener datos conformes con LADM_COL y a generar archivos de intercambio de INTERLIS (.XTF)** https://plugins.qgis.org/plugins/asistente_ladm_col/ https://agenciaimplementacion.github.io/Asistente-LADM_COL/ [Tuit @geofumadas](https://twitter.com/geofumadas/status/1084860065658650624)
+- Argentina. Córdoba **Cálculo de valores de mercado de los inmuebles de la provincia de Córdoba (Argentina)** https://gn-idecor.mapascordoba.gob.ar/maps/10/view [Tuit @renzo_polo](https://twitter.com/renzo_polo/status/1085558210969387015)
+ 
 ### Europa
 - Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS- [Tuit @fran_raga](https://twitter.com/fran_raga/status/1084086364155588608)
 
