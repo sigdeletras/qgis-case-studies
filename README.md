@@ -1,10 +1,10 @@
-# Casos de usos QGIS
+# Casos de usos QGIS #qgisadmon
 
 ## Objetivo
 
 Hacer una recopilación de referencias, enlaces y otros con ejemplos de casos de usos de QGIS. 
 En primer lugar, el listado estará centrado en el uso de QGIS en la administración pública pero la idea es estar abierto a otras categorías.
-Para un seguimiento en Twitter seguir la etiqueta [#QGISadmin](https://twitter.com/hashtag/QGISadmon?src=hash)
+Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.com/hashtag/QGISadmon?src=hash)
 
 ## Leyenda
 
