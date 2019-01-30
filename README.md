@@ -31,6 +31,7 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 - Andalucía. **Ayuntamiento de la Línea de la Concepción. GIS municipal y desarrollo de plugins**. Desarrollado por @Fisotec. 
 - Andalucía. **SIG para Registro Municipal de Solares y Edificios ruinoso**. Gerencia Municipal de Urbanismo de Córdoba. Desarrollado por @SIGdeletras http://www.sigdeletras.com/2017/inventario-sig-para-registro-municipal-de-solares-y-edificios-ruinosos-trabajosgeograficos/. 
 - Aragón. Redacción del **Plan de Interés General de Aragón para la implantación de una plataforma agroalimentaria en Épila (Zaragoza)** http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/VertebracionTerritorioMovilidadVivienda/NP/plataforma_agro_epila [Tuit @xabalbi](https://twitter.com/xabalbi/status/1085538825693290496)
+- Cataluña. **Simbolización, edición de datos y explotación de un catálogo de metadatos con QGIS y elaboración de geoservicios WMS y CSW con QGIS Server, máster en Geoinformación de la UAB (Universidad Autónoma de Barcelona)** [Tuit @f_martin2](https://twitter.com/f_martin2/status/1089863449679663109)
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
