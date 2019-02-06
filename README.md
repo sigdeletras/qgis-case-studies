@@ -32,11 +32,16 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 - Andalucía. **SIG para Registro Municipal de Solares y Edificios ruinoso**. Gerencia Municipal de Urbanismo de Córdoba. Desarrollado por @SIGdeletras http://www.sigdeletras.com/2017/inventario-sig-para-registro-municipal-de-solares-y-edificios-ruinosos-trabajosgeograficos/. 
 - Aragón. Redacción del **Plan de Interés General de Aragón para la implantación de una plataforma agroalimentaria en Épila (Zaragoza)** http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/VertebracionTerritorioMovilidadVivienda/NP/plataforma_agro_epila [Tuit @xabalbi](https://twitter.com/xabalbi/status/1085538825693290496)
 - Cataluña. **Simbolización, edición de datos y explotación de un catálogo de metadatos con QGIS y elaboración de geoservicios WMS y CSW con QGIS Server, máster en Geoinformación de la UAB (Universidad Autónoma de Barcelona)** [Tuit @f_martin2](https://twitter.com/f_martin2/status/1089863449679663109)
+- Córdoba. **Inventario, geomatica y estadística de la EIEL** Diputación de Córdoba [Tuit @caballano_jl](https://twitter.com/caballano_jl/status/1091109978642018305)
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
 - La Rioja **Inventario de Frutales. Control con Python requisitos del modelo para encaje de datos producidos en la BD Oracle Spatial**  desarrollado x @panoimagen & @RiojaDigital [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
 - La Rioja **Diseño de pistas forestale**  https://plugins.qgis.org/plugins/forestroaddesigner/ desarrollado x @panoimagen & @RiojaDigital [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
+- Andalucía **Producción de la Base Cartográfica de Andalucía #BCA en la fase de control de calidad para la detección y corrección de errores geométricos** [Tuit IECA_Andaluci](https://twitter.com/IECA_Andalucia/status/1090932915834421248)
+- Andalucía **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
+- Andalucía **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
+- Andalucía **Proyecto #DERA fase control de calidad para la detección y corrección de errores geométricos. Inventario Toponímico de Asentamiento de la Comunidad Andalucía #ITACA, determinación de ámbitos de los asentamientos** [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090933971049988096)
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec [Tuit ](https://twitter.com/fran_raga/status/1084084861831393280)
