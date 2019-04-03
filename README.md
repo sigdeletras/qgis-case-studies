@@ -6,15 +6,7 @@ Hacer una recopilación de referencias, enlaces y otros con ejemplos de casos de
 En primer lugar, el listado estará centrado en el uso de QGIS en la administración pública pero la idea es estar abierto a otras categorías.
 Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.com/hashtag/QGISadmon?src=hash)
 
-## Leyenda
-
-1. 📕 Artículo
-1. 💡 Projecto
-1. 🎥 Video
-1. 📄 Web
-
 ## Casos de uso
-![Map](/img/ogv_all.png)
 
 Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.githubusercontent.com/geowe/geodata/master/general/https://raw.githubusercontent.com/sigdeletras/qgis-case-studies/master/geo/usecasesqgis.geojson&cluster=true&basemap=carto)
 
@@ -58,5 +50,12 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
  
 ### Europa
 - Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS- [Tuit @fran_raga](https://twitter.com/fran_raga/status/1084086364155588608)
+
+## Leyenda
+
+1. 📕 Artículo
+1. 💡 Projecto
+1. 🎥 Video
+1. 📄 Web
 
 
