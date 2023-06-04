@@ -33,7 +33,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Inventario, geomatica y estadística de la EIEL** Diputación de Córdoba [Tuit @caballano_jl](https://twitter.com/caballano_jl/status/1091109978642018305)
 
 #### Aragón. 
-- **Redacción del **Plan de Interés General de Aragón para la implantación de una plataforma agroalimentaria en Épila (Zaragoza)** http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/VertebracionTerritorioMovilidadVivienda/NP/plataforma_agro_epila [Tuit @xabalbi](https://twitter.com/xabalbi/status/1085538825693290496)
+- **Redacción del Plan de Interés General de Aragón para la implantación de una plataforma agroalimentaria en Épila (Zaragoza)** http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/VertebracionTerritorioMovilidadVivienda/NP/plataforma_agro_epila [Tuit @xabalbi](https://twitter.com/xabalbi/status/1085538825693290496)
 
 #### Cataluña. 
 
