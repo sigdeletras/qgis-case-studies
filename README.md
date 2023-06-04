@@ -26,6 +26,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257 [Tuit @jllsal](https://twitter.com/jllsala/status/1084410209685114880)
 - Sabadell. **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf 📢 [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
 - **qVista** Ajuntament de Barcelona. Presentación de Jordi Cebrián (Sistemes d'Informació Territorial Institut Municiapl d'Informàtica) en Jornadas SIG Libre Girona 2021  🎥 https://diobma.udg.edu/handle/10256.1/6207
+- **Publicación de la cartografía topográfica municipal con herramientas de software libre**  Ajuntament de Barcelona. Institut Municipal d'Informàtica. Presentación de Esther Pulido Barberán  en Jornadas SIG Libre Girona 2021 🎥 [https://diobma.udg.edu/handle/10256.1/6223](https://diobma.udg.edu/handle/10256.1/6223)
 
 #### Andalucía. 
 - **"Callejero digital Ayuntamiento Roquetas de Mar"** 📄 https://www.telealmerianoticias.es/roquetas-de-mar-el-ayuntamiento-trabaja-en-un-callejero-digital-unificado/
@@ -65,7 +66,9 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 #### Cataluña
 - **Desarrollo de herramientas para la automatización de flujos de trabajo: plug-in de QGIS y microaplicación web** Institut Cartogràfic i Geològic de Catalunya. Presentación de Fran Martín Rivas en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6790](https://diobma.udg.edu/handle/10256.1/6790)
-
+- **SIG libre para la sostenibilidad de la pesca en Catalunya** Institut de Ciències del Mar - CSIC. Presentación de  Joan Sala Coromina, Jordi Ribera Altimir, Jose Antonio García del Arco en las Jornadas SIG Libre Girona 2021 🎥 https://diobma.udg.edu/handle/10256.1/6214
+- **Desarrollo de una tecnología Smartphone para el estudio del uso y la percepción del espacio público**  Institut Cartogràfic i Geològic de Catalunya. Presentación de Fran Martín Rivas en Jornadas SIG Libre Girona 2021 🎥 [https://diobma.udg.edu/handle/10256.1/6218](https://diobma.udg.edu/handle/10256.1/6218)
+- **Tutorial: Acceso directo a la geoinformación de Catalunya en QGIS con el conector OpenICGC**   Institut Cartogràfic i Geològic de Catalunya. Presentación de Joan Arnaldich en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6850](https://diobma.udg.edu/handle/10256.1/6850)
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
