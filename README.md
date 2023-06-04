@@ -59,8 +59,12 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
 - **Proyecto #DERA fase control de calidad para la detección y corrección de errores geométricos. Inventario Toponímico de Asentamiento de la Comunidad Andalucía #ITACA, determinación de ámbitos de los asentamientos** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090933971049988096)
 
-### Aragón
+#### Aragón
 - **Plugin para detección de cambios en usos** 
+
+#### Cataluña
+- **Desarrollo de herramientas para la automatización de flujos de trabajo: plug-in de QGIS y microaplicación web = Desenvolupament d’eines per a l’automatització de fluxos de treball: connector de QGIS i microaplicació web** Institut Cartogràfic i Geològic de Catalunya. Presentación de Fran Martín Rivas en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6790](https://diobma.udg.edu/handle/10256.1/6790)
+
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
