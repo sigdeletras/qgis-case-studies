@@ -44,14 +44,23 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 - **Callejero, Catastro, Planeamiento, Licencias, Inventario, Infraestructuras, Servicios, Patrimonio, Archivo H°.** Ayuntamiento de Cáceres. 📢 [Tuit @sig_caceres][https://twitter.com/caballano_jl/status/1091109978642018305](https://twitter.com/sig_caceres/status/1663939480980471808)
 
-#### Autonómico
-- Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
-- La Rioja **Inventario de Frutales. Control con Python requisitos del modelo para encaje de datos producidos en la BD Oracle Spatial**  desarrollado x @panoimagen & @RiojaDigital 📢 [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
-- La Rioja **Diseño de pistas forestale**  https://plugins.qgis.org/plugins/forestroaddesigner/ desarrollado x @panoimagen & @RiojaDigital 📢 [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
-- Andalucía **Producción de la Base Cartográfica de Andalucía #BCA en la fase de control de calidad para la detección y corrección de errores geométricos** 📢 [Tuit IECA_Andaluci](https://twitter.com/IECA_Andalucia/status/1090932915834421248)
-- Andalucía **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
-- Andalucía **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
-- Andalucía **Proyecto #DERA fase control de calidad para la detección y corrección de errores geométricos. Inventario Toponímico de Asentamiento de la Comunidad Andalucía #ITACA, determinación de ámbitos de los asentamientos** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090933971049988096)
+### Autonómico
+
+#### Canarias. 
+- **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
+
+#### La Rioja 
+- **Inventario de Frutales. Control con Python requisitos del modelo para encaje de datos producidos en la BD Oracle Spatial**  desarrollado x @panoimagen & @RiojaDigital 📢 [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
+- **Diseño de pistas forestale**  https://plugins.qgis.org/plugins/forestroaddesigner/ desarrollado x @panoimagen & @RiojaDigital 📢 [Tuit @iderioja](https://twitter.com/iderioja/status/1084732464403304448)
+
+#### Andalucía 
+- **Producción de la Base Cartográfica de Andalucía #BCA en la fase de control de calidad para la detección y corrección de errores geométricos** 📢 [Tuit IECA_Andaluci](https://twitter.com/IECA_Andalucia/status/1090932915834421248)
+- **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
+- **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
+- **Proyecto #DERA fase control de calidad para la detección y corrección de errores geométricos. Inventario Toponímico de Asentamiento de la Comunidad Andalucía #ITACA, determinación de ámbitos de los asentamientos** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090933971049988096)
+
+### Aragón
+- **Plugin para detección de cambios en usos** 
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
