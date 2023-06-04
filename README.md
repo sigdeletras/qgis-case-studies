@@ -6,13 +6,16 @@ Hacer una recopilación de referencias, enlaces y otros con ejemplos de casos de
 En primer lugar, el listado estará centrado en el uso de QGIS en la administración pública pero la idea es estar abierto a otras categorías.
 Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.com/hashtag/QGISadmon?src=hash)
 
-## Casos de uso
+## Leyenda
 
-Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.githubusercontent.com/geowe/geodata/master/general/https://raw.githubusercontent.com/sigdeletras/qgis-case-studies/master/geo/usecasesqgis.geojson&cluster=true&basemap=carto)
+1. 📕 Artículo
+1. 💡 Projecto
+1. 🎥 Video
+1. 📄 Web
 
-### España
+## España
 
-#### Local
+### Adminitración Local
 
 #### Cataluña. 
 
@@ -54,7 +57,7 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 - **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco Sistema AMBEMAR DSS 📕 http://eemm.ihcantabria.com/wp-content/uploads/2017/11/AMBEMAR_Jornadas-EERR_17.pdf [Tuit @ffpipe](https://twitter.com/ffpipe/status/1084415979558457344)
 
 
-### America
+## América
 - Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html# 
 - Honduras. **SIG Municipal** [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084615371703926789)
 - Honduras. **Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras**. [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084616445198254080)
@@ -62,14 +65,4 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 - Colombia. **Plugin de QGIS que ayuda a capturar y mantener datos conformes con LADM_COL y a generar archivos de intercambio de INTERLIS (.XTF)** https://plugins.qgis.org/plugins/asistente_ladm_col/ https://agenciaimplementacion.github.io/Asistente-LADM_COL/ [Tuit @geofumadas](https://twitter.com/geofumadas/status/1084860065658650624)
 - Argentina. Córdoba **Cálculo de valores de mercado de los inmuebles de la provincia de Córdoba (Argentina)** https://gn-idecor.mapascordoba.gob.ar/maps/10/view [Tuit @renzo_polo](https://twitter.com/renzo_polo/status/1085558210969387015)
  
-### Europa
-- Francia. Nivel. Nacional. **"RIPART  l’Institut national de l’information géographique et forestière (IGN)"** 📄  http://logiciels.ign.fr/?-RIPart-QGIS- [Tuit @fran_raga](https://twitter.com/fran_raga/status/1084086364155588608)
-
-## Leyenda
-
-1. 📕 Artículo
-1. 💡 Projecto
-1. 🎥 Video
-1. 📄 Web
-
 
