@@ -44,7 +44,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 #### Extremadura
 
-- **Callejero, Catastro, Planeamiento, Licencias, Inventario, Infraestructuras, Servicios, Patrimonio, Archivo H°.** Ayuntamiento de Cáceres. 📢 [Tuit @sig_caceres][https://twitter.com/caballano_jl/status/1091109978642018305](https://twitter.com/sig_caceres/status/1663939480980471808)
+- **IDE de Cáceres. Software libre & propietario Modelo del SIG de Cáceres como ejemplo de sistema híbrido**  Ayuntamiento de Cáceres. Presentación en las JIDEE 2022 - Sevilla 📕 [https://www.idee.es/resources/presentaciones/JIIDE22/Presentaciones/31.pdf](https://www.idee.es/resources/presentaciones/JIIDE22/Resumenes/40.pdf) 📢 [Tuit @sig_caceres([https://twitter.com/caballano_jl/status/1091109978642018305](https://twitter.com/sig_caceres/status/1663939480980471808)
 
 ### Autonómico
 
@@ -60,6 +60,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
 - **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
 - **Proyecto #DERA fase control de calidad para la detección y corrección de errores geométricos. Inventario Toponímico de Asentamiento de la Comunidad Andalucía #ITACA, determinación de ámbitos de los asentamientos** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090933971049988096)
+- **Datos Espaciales Públicos, Python y QGIS al servicio de la Evaluación de Impacto en Salud en Andalucía**. IECA - Junta de Andalucía. Presentación de C. Fernández en las JIDEE 2022 - Sevilla 📕 [https://www.idee.es/resources/presentaciones/JIIDE22/Presentaciones/31.pdf](https://www.idee.es/resources/presentaciones/JIIDE22/Presentaciones/31.pdf)
 
 #### Aragón
 - **Plugin para detección de cambios en usos** 
@@ -69,6 +70,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **SIG libre para la sostenibilidad de la pesca en Catalunya** Institut de Ciències del Mar - CSIC. Presentación de  Joan Sala Coromina, Jordi Ribera Altimir, Jose Antonio García del Arco en las Jornadas SIG Libre Girona 2021 🎥 https://diobma.udg.edu/handle/10256.1/6214
 - **Desarrollo de una tecnología Smartphone para el estudio del uso y la percepción del espacio público**  Institut Cartogràfic i Geològic de Catalunya. Presentación de Fran Martín Rivas en Jornadas SIG Libre Girona 2021 🎥 [https://diobma.udg.edu/handle/10256.1/6218](https://diobma.udg.edu/handle/10256.1/6218)
 - **Tutorial: Acceso directo a la geoinformación de Catalunya en QGIS con el conector OpenICGC**   Institut Cartogràfic i Geològic de Catalunya. Presentación de Joan Arnaldich en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6850](https://diobma.udg.edu/handle/10256.1/6850)
+- **Geología en teselas vectoriales: desarrollo del visor Mapa Geológico de Catalunya 1:25.000** Institut Cartogràfic i Geològic de Catalunya. Presentación Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6777](https://diobma.udg.edu/handle/10256.1/6777)
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
