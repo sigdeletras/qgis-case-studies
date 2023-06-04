@@ -41,7 +41,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 #### Extremadura
 
-- **Callejero, Catastro, Planeamiento, Licencias, Inventario, Infraestructuras, Servicios, Patrimonio, Archivo H°.** Ayuntamiento de Cáceres. [Tuit @sig_caceres]([https://twitter.com/caballano_jl/status/1091109978642018305](https://twitter.com/sig_caceres/status/1663939480980471808)
+- **Callejero, Catastro, Planeamiento, Licencias, Inventario, Infraestructuras, Servicios, Patrimonio, Archivo H°.** Ayuntamiento de Cáceres. [Tuit @sig_caceres][https://twitter.com/caballano_jl/status/1091109978642018305](https://twitter.com/sig_caceres/status/1663939480980471808)
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
