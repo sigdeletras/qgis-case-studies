@@ -25,6 +25,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - Lliçà d’Amunt **Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  📢 [Tuit @jllsal](https://twitter.com/jllsala/status/1084408381732016128)
 - **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257 [Tuit @jllsal](https://twitter.com/jllsala/status/1084410209685114880)
 - Sabadell. **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf 📢 [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
+- **qVista** Ajuntament de Barcelona. Presentación de Jordi Cebrián (Sistemes d'Informació Territorial Institut Municiapl d'Informàtica) en Jornadas SIG Libre Girona 2021  🎥 https://diobma.udg.edu/handle/10256.1/6207
 
 #### Andalucía. 
 - **"Callejero digital Ayuntamiento Roquetas de Mar"** 📄 https://www.telealmerianoticias.es/roquetas-de-mar-el-ayuntamiento-trabaja-en-un-callejero-digital-unificado/
