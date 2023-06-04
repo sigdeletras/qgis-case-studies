@@ -63,12 +63,13 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Plugin para detección de cambios en usos** 
 
 #### Cataluña
-- **Desarrollo de herramientas para la automatización de flujos de trabajo: plug-in de QGIS y microaplicación web = Desenvolupament d’eines per a l’automatització de fluxos de treball: connector de QGIS i microaplicació web** Institut Cartogràfic i Geològic de Catalunya. Presentación de Fran Martín Rivas en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6790](https://diobma.udg.edu/handle/10256.1/6790)
+- **Desarrollo de herramientas para la automatización de flujos de trabajo: plug-in de QGIS y microaplicación web** Institut Cartogràfic i Geològic de Catalunya. Presentación de Fran Martín Rivas en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6790](https://diobma.udg.edu/handle/10256.1/6790)
 
 
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
 - **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco Sistema AMBEMAR DSS 📕 http://eemm.ihcantabria.com/wp-content/uploads/2017/11/AMBEMAR_Jornadas-EERR_17.pdf 📢 [Tuit @ffpipe](https://twitter.com/ffpipe/status/1084415979558457344)
+- **Uso de PostgreSQL, QGIS y R para estudiar las interaccio- nes entre la actividad de las barcas de pesca y los movimientos espaciales de un depredador marino oportunista** ICM-CSIC Presentación en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6805](https://diobma.udg.edu/handle/10256.1/6805)
 
 
 ## América
