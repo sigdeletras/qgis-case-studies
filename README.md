@@ -13,19 +13,32 @@ Ver mapa en [OGV de GeoWe](https://geowe.org/ogv/viewer/?geojson=https://raw.git
 ### España
 
 #### Local
-- Cataluña. **"Implementación de QGIS en el ayuntamiento de Sant Sadurní d'Anoia"** 📕http://www.sigte.udg.edu/jornadassiglibre2014/uploads/2014/abstracts/r20.pdf 🎥 https://vimeo.com/91497886 [Tuit @SIGdeletras](https://twitter.com/SIGdeletras/status/1084057749900718080)
-- Cataluña. **"Tecnologías libres e integraciones para un SIG municipal. El caso de Vilablareix.** Ayuntamiento de Vilablareix. 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2014/09/sig_municipal_vilablareix.pdf [Tuit GIS4tech_UGR](https://twitter.com/GIS4tech_UGR/status/1084375118258888712)
-- Cataluña. Lliçà d’Amunt**Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  [Tuit @jllsal](https://twitter.com/jllsala/status/1084408381732016128)
+
+#### Cataluña. 
+
+- **"Implementación de QGIS en el ayuntamiento de Sant Sadurní d'Anoia"** 📕http://www.sigte.udg.edu/jornadassiglibre2014/uploads/2014/abstracts/r20.pdf 🎥 https://vimeo.com/91497886 [Tuit @SIGdeletras](https://twitter.com/SIGdeletras/status/1084057749900718080)
+- **"Tecnologías libres e integraciones para un SIG municipal. El caso de Vilablareix.** Ayuntamiento de Vilablareix. 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2014/09/sig_municipal_vilablareix.pdf [Tuit GIS4tech_UGR](https://twitter.com/GIS4tech_UGR/status/1084375118258888712)
+- Lliçà d’Amunt **Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  [Tuit @jllsal](https://twitter.com/jllsala/status/1084408381732016128)
 - **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257 [Tuit @jllsal](https://twitter.com/jllsala/status/1084410209685114880)
-- Cataluña. Sabadell. **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
-- Andalucía. **"Callejero digital Ayuntamiento Roquetas de Mar"** 📄 https://www.telealmerianoticias.es/roquetas-de-mar-el-ayuntamiento-trabaja-en-un-callejero-digital-unificado/
-- Andalucía. **Diputación de Málaga. Gestión de EIEL y módulo de gestión con el visor web**. Desarrollado por @Fisotec. 
-- Andalucía. **Ayuntamiento de la Línea de la Concepción. GIS municipal y desarrollo de plugins**. Desarrollado por @Fisotec. 
-- Andalucía. **SIG para Registro Municipal de Solares y Edificios ruinoso**. Gerencia Municipal de Urbanismo de Córdoba. Desarrollado por @SIGdeletras http://www.sigdeletras.com/2017/inventario-sig-para-registro-municipal-de-solares-y-edificios-ruinosos-trabajosgeograficos/. 
-- Aragón. Redacción del **Plan de Interés General de Aragón para la implantación de una plataforma agroalimentaria en Épila (Zaragoza)** http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/VertebracionTerritorioMovilidadVivienda/NP/plataforma_agro_epila [Tuit @xabalbi](https://twitter.com/xabalbi/status/1085538825693290496)
-- Cataluña. **Simbolización, edición de datos y explotación de un catálogo de metadatos con QGIS y elaboración de geoservicios WMS y CSW con QGIS Server, máster en Geoinformación de la UAB (Universidad Autónoma de Barcelona)** [Tuit @f_martin2](https://twitter.com/f_martin2/status/1089863449679663109)
-- Córdoba. **Inventario, geomatica y estadística de la EIEL** Diputación de Córdoba [Tuit @caballano_jl](https://twitter.com/caballano_jl/status/1091109978642018305)
-- Cáceres. **Callejero, Catastro, Planeamiento, Licencias, Inventario, Infraestructuras, Servicios, Patrimonio, Archivo H°.** Ayuntamiento de Cáceres. [Tuit @sig_caceres]([https://twitter.com/caballano_jl/status/1091109978642018305](https://twitter.com/sig_caceres/status/1663939480980471808)
+- Sabadell. **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
+
+#### Andalucía. 
+- **"Callejero digital Ayuntamiento Roquetas de Mar"** 📄 https://www.telealmerianoticias.es/roquetas-de-mar-el-ayuntamiento-trabaja-en-un-callejero-digital-unificado/
+- **Diputación de Málaga. Gestión de EIEL y módulo de gestión con el visor web**. Desarrollado por @Fisotec. 
+- **Ayuntamiento de la Línea de la Concepción. GIS municipal y desarrollo de plugins**. Desarrollado por @Fisotec. 
+- **SIG para Registro Municipal de Solares y Edificios ruinoso**. Gerencia Municipal de Urbanismo de Córdoba. Desarrollado por @SIGdeletras http://www.sigdeletras.com/2017/inventario-sig-para-registro-municipal-de-solares-y-edificios-ruinosos-trabajosgeograficos/. 
+- **Inventario, geomatica y estadística de la EIEL** Diputación de Córdoba [Tuit @caballano_jl](https://twitter.com/caballano_jl/status/1091109978642018305)
+
+#### Aragón. 
+- **Redacción del **Plan de Interés General de Aragón para la implantación de una plataforma agroalimentaria en Épila (Zaragoza)** http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/VertebracionTerritorioMovilidadVivienda/NP/plataforma_agro_epila [Tuit @xabalbi](https://twitter.com/xabalbi/status/1085538825693290496)
+
+#### Cataluña. 
+
+- **Simbolización, edición de datos y explotación de un catálogo de metadatos con QGIS y elaboración de geoservicios WMS y CSW con QGIS Server, máster en Geoinformación de la UAB (Universidad Autónoma de Barcelona)** [Tuit @f_martin2](https://twitter.com/f_martin2/status/1089863449679663109)
+
+#### Extremadura
+
+- **Callejero, Catastro, Planeamiento, Licencias, Inventario, Infraestructuras, Servicios, Patrimonio, Archivo H°.** Ayuntamiento de Cáceres. [Tuit @sig_caceres]([https://twitter.com/caballano_jl/status/1091109978642018305](https://twitter.com/sig_caceres/status/1663939480980471808)
 
 #### Autonómico
 - Canarias. **Official plugin of Instituto Canario de Estadística (ISTAC)  (@istac_es )"** 📄  http://plugins.qgis.org/plugins/istacqgis/ https://github.com/eDatos/istacqgis Gobierno de Canarias. [Tuit fran_raga](https://twitter.com/fran_raga/status/1084087414803574786)
