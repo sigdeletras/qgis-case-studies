@@ -18,16 +18,6 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 ### Adminitración Local
 
-#### Cataluña. 
-
-- **"Implementación de QGIS en el ayuntamiento de Sant Sadurní d'Anoia"** 📕http://www.sigte.udg.edu/jornadassiglibre2014/uploads/2014/abstracts/r20.pdf 🎥 https://vimeo.com/91497886 📢 [Tuit @SIGdeletras](https://twitter.com/SIGdeletras/status/1084057749900718080)
-- **"Tecnologías libres e integraciones para un SIG municipal. El caso de Vilablareix.** Ayuntamiento de Vilablareix. 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2014/09/sig_municipal_vilablareix.pdf 📢 [Tuit GIS4tech_UGR](https://twitter.com/GIS4tech_UGR/status/1084375118258888712)
-- Lliçà d’Amunt **Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  📢 [Tuit @jllsal](https://twitter.com/jllsala/status/1084408381732016128)
-- **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257 [Tuit @jllsal](https://twitter.com/jllsala/status/1084410209685114880)
-- Sabadell. **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf 📢 [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
-- **qVista** Ajuntament de Barcelona. Presentación de Jordi Cebrián (Sistemes d'Informació Territorial Institut Municiapl d'Informàtica) en Jornadas SIG Libre Girona 2021  🎥 https://diobma.udg.edu/handle/10256.1/6207
-- **Publicación de la cartografía topográfica municipal con herramientas de software libre**  Ajuntament de Barcelona. Institut Municipal d'Informàtica. Presentación de Esther Pulido Barberán  en Jornadas SIG Libre Girona 2021 🎥 [https://diobma.udg.edu/handle/10256.1/6223](https://diobma.udg.edu/handle/10256.1/6223)
-
 #### Andalucía. 
 - **"Callejero digital Ayuntamiento Roquetas de Mar"** 📄 https://www.telealmerianoticias.es/roquetas-de-mar-el-ayuntamiento-trabaja-en-un-callejero-digital-unificado/
 - **Diputación de Málaga. Gestión de EIEL y módulo de gestión con el visor web**. Desarrollado por @Fisotec. 
@@ -40,7 +30,15 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 #### Cataluña. 
 
-- **Simbolización, edición de datos y explotación de un catálogo de metadatos con QGIS y elaboración de geoservicios WMS y CSW con QGIS Server, máster en Geoinformación de la UAB (Universidad Autónoma de Barcelona)** 📢 [Tuit @f_martin2](https://twitter.com/f_martin2/status/1089863449679663109)
+- **"Implementación de QGIS en el ayuntamiento de Sant Sadurní d'Anoia"** 📕http://www.sigte.udg.edu/jornadassiglibre2014/uploads/2014/abstracts/r20.pdf 🎥 https://vimeo.com/91497886 📢 [Tuit @SIGdeletras](https://twitter.com/SIGdeletras/status/1084057749900718080)
+- **"Tecnologías libres e integraciones para un SIG municipal. El caso de Vilablareix.** Ayuntamiento de Vilablareix. 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2014/09/sig_municipal_vilablareix.pdf 📢 [Tuit GIS4tech_UGR](https://twitter.com/GIS4tech_UGR/status/1084375118258888712)
+- Lliçà d’Amunt **Optimización transporte bus urbano, gestión residuos urbanos y actualización del censo de animales** @bgeo_opengis en @llicamunt 🎥  https://vimeo.com/223107746  📢 [Tuit @jllsal](https://twitter.com/jllsala/status/1084408381732016128)
+- **Gestión de redes de agua potable, saneamiento y drenaje urbano** @Giswater y @qgis 🎥 https://vimeo.com/223100457  🎥 https://vimeo.com/280905257 [Tuit @jllsal](https://twitter.com/jllsala/status/1084410209685114880)
+- Sabadell. **Gestión de firmes y pavimentos urbanos con #QGIS, inventario de patologías y planificación eficiente de las inversiones en mantenimiento** 🎥 https://vimeo.com/170590967 📕 http://www.sigte.udg.edu/jornadassiglibre2016/wp-content/uploads/2016/06/abs_037_gestio_pavimentos_urbanos_qgis.pdf 📢 [Tuit Tuit @jllsal](https://twitter.com/jllsala/status/1084413421662208001)
+- **qVista** Ajuntament de Barcelona. Presentación de Jordi Cebrián (Sistemes d'Informació Territorial Institut Municiapl d'Informàtica) en Jornadas SIG Libre Girona 2021  🎥 https://diobma.udg.edu/handle/10256.1/6207
+- **Publicación de la cartografía topográfica municipal con herramientas de software libre**  Ajuntament de Barcelona. Institut Municipal d'Informàtica. Presentación de Esther Pulido Barberán  en Jornadas SIG Libre Girona 2021 🎥 [https://diobma.udg.edu/handle/10256.1/6223](https://diobma.udg.edu/handle/10256.1/6223)
+- - **Simbolización, edición de datos y explotación de un catálogo de metadatos con QGIS y elaboración de geoservicios WMS y CSW con QGIS Server, máster en Geoinformación de la UAB (Universidad Autónoma de Barcelona)** 📢 [Tuit @f_martin2](https://twitter.com/f_martin2/status/1089863449679663109)
+
 
 #### Extremadura
 
@@ -57,7 +55,6 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 #### Andalucía 
 - **Producción de la Base Cartográfica de Andalucía #BCA en la fase de control de calidad para la detección y corrección de errores geométricos** 📢 [Tuit IECA_Andaluci](https://twitter.com/IECA_Andalucia/status/1090932915834421248)
-- **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
 - **Adminitración y gestión de las entidades territoriales del Callejero Digital de Andalucía Unificado #CDAU** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090955864347938816)
 - **Proyecto #DERA fase control de calidad para la detección y corrección de errores geométricos. Inventario Toponímico de Asentamiento de la Comunidad Andalucía #ITACA, determinación de ámbitos de los asentamientos** 📢 [Tuit IECA_Andalucia](https://twitter.com/IECA_Andalucia/status/1090933971049988096)
 - **Datos Espaciales Públicos, Python y QGIS al servicio de la Evaluación de Impacto en Salud en Andalucía**. IECA - Junta de Andalucía. Presentación de C. Fernández en las JIDEE 2022 - Sevilla 📕 [https://www.idee.es/resources/presentaciones/JIIDE22/Presentaciones/31.pdf](https://www.idee.es/resources/presentaciones/JIIDE22/Presentaciones/31.pdf)
