@@ -70,6 +70,9 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Geología en teselas vectoriales: desarrollo del visor Mapa Geológico de Catalunya 1:25.000** Institut Cartogràfic i Geològic de Catalunya. Presentación Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6777](https://diobma.udg.edu/handle/10256.1/6777)
 - **Normas de redacción de los proyectos para la ejecución de actuaciones en formato QGIS, modelo de datos SIG de saneamiento y modelo de datos SIG de expropiaciones.** de  Agència Catalana de l'Aigua. 💡 [Issue de @dcastellvell](https://github.com/sigdeletras/qgis-case-studies/issues/4)
 
+#### Navarra
+- **Uso de QGIS como herramienta de sobremesa, de especial utilidad para facilitar el acceso a la información geoespacial por parte de las entidades locales** Gobierno de Navarra - SITNA. 📢 [Comentario de Carlos Sabando, Responsable equipo GeoWeb en Tracasa Instrumental, en hilo de Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7071493537942372353/)  📄 [Noticia de SITNA](https://pcsitna.navarra.es/Lists/Noticias/Ver.aspx?ID=295)
+
 #### Nacional
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
 - **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco Sistema AMBEMAR DSS 📕 http://eemm.ihcantabria.com/wp-content/uploads/2017/11/AMBEMAR_Jornadas-EERR_17.pdf 📢 [Tuit @ffpipe](https://twitter.com/ffpipe/status/1084415979558457344)
