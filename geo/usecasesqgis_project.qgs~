@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveUser="pasoriano" projectname="" saveUserFull="pasoriano" version="3.28.5-Firenze" saveDateTime="2023-06-05T07:35:09">
+<qgis saveUser="pasoriano" projectname="" saveUserFull="pasoriano" version="3.28.5-Firenze" saveDateTime="2023-06-05T07:35:30">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -58,10 +58,10 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>degrees</units>
     <extent>
-      <xmin>0.88024267228038022</xmin>
-      <ymin>40.43528213334137433</ymin>
-      <xmax>2.73963638660725062</xmax>
-      <ymax>42.14480124801683303</ymax>
+      <xmin>-22.79770911127942767</xmin>
+      <ymin>22.17745594888094729</ymin>
+      <xmax>10.67137774660423943</xmax>
+      <ymax>52.9488000130392038</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -1597,7 +1597,7 @@ def my_form_open(dialog, layer, feature):
   <Bookmarks/>
   <ProjectViewSettings rotation="0" UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent xmin="0.55008065583228061" ymin="40.43528213334137433" xmax="3.06979840305535046" ymax="42.14480124801683303">
+    <DefaultViewExtent xmin="-28.74062540734522031" ymin="22.17745594888094729" xmax="16.61429404267003207" ymax="52.9488000130392038">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
         <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
