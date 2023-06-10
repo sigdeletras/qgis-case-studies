@@ -82,23 +82,39 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Proyecto CianoMOD. Procedimientos para el análisis de parámetros de calidad de aguas continentales relacionados con los afloramientos de cianobaceterias**. Pascual-Aguilar, J. & Morón-López, Jesús & De Bustamante, Irene & Belda-Carrasco, Rafael & Carreño, Francisco & Pompa-Pernia, Angel & Rodriguez-Sanchez, M.C. & Vaquero, Joaquin & Mateos, Myriam & Simon, Clara & Sipols, Ana & Mariñas-Collado, Irene. (2022). 📄 https://diobma.udg.edu/handle/10256.1/6805
 
 
-## América
-- Uruguay. Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html# 
-- Honduras. **SIG Municipal** [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084615371703926789)
-- Honduras. **Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras**.📢  [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084616445198254080)
-- Argentina. Pergamino (Buenos Aires, Argentina) **Carga y edición de datos en la http://ide.pergamino.gob.ar** https://www.facebook.com/pg/idepergamino/posts/ …, https://www.instagram.com/idepergamino/?hl=es … y @idepergamino 📢 [Tuit @federicogazaba](https://twitter.com/federicogazaba/status/1084433643693588480)
-- Colombia. **Plugin de QGIS que ayuda a capturar y mantener datos conformes con LADM_COL y a generar archivos de intercambio de INTERLIS (.XTF)** 📄https://plugins.qgis.org/plugins/asistente_ladm_col/ 📄 https://agenciaimplementacion.github.io/Asistente-LADM_COL/ 📢 [Tuit @geofumadas](https://twitter.com/geofumadas/status/1084860065658650624)
-- Argentina. Córdoba **Cálculo de valores de mercado de los inmuebles de la provincia de Córdoba (Argentina)** 📄 https://gn-idecor.mapascordoba.gob.ar/maps/10/view 📢 [Tuit @renzo_polo](https://twitter.com/renzo_polo/status/1085558210969387015)
-- México. Estado de Sinaloa. **Instituto Catastral de Sinaloa (I.C.E.S)**. Sistema basado en componentes de código abierto: PostGIS, Geoserver, QGIS, etc. 📹[Modernización del Catastro Sinaloa - I.C.E.S](https://www.youtube.com/watch?v=iPZ7AeKwmE0)
-- México. Jalisco. **Catastro de Guadalajara**. Sistema basado en componentes de código abierto para la gestión de la cartografía catastral, divisiones y avalúo: PostGIS, Geoserver, QGIS.
-- México. Jalisco. **Catastro de Tlaquepaque**. Sistema basado en componentes de código abierto para la gestión de la cartografía catastral, divisiones y avalúo: PostGIS, Geoserver, QGIS.
-- México. **Visor Urbano.** Sistema para gestión de licencias de negocio y construcción implementado en 49 municipios repartidos entre los estados de Jalisco e Hidalgo. La gestión de la cartografía de usos de suelo sobre la que se apoya la aplicación se produjo usando QGIS y está almacenada en PostGIS. En el caso de [Visor Urbano Guadalajara](https://visorurbano.com/mapa/), Jalisco, está vinculado en tiempo real con el sistema catastral anteriormente mencionado. Proyecto ganador del [Bloomberg's Mayors Challenge 2016](https://www.bloomberg.org/press/city-sao-paulo-selected-2016-grand-prize-winner-bloomberg-philanthropies-latin-american-caribbean-mayors-challenge/).
-- México. Guadalajara. **Dirección de Geomática del municipio**. Toda la gestión de cartografía, producción cartográfica, análisis y manejo de datos geográficos se hace usando QGIS y PostGIS, los datos se publican con servicios web OGC a través de una aplicación web creada usando Leaflet. [Mapa Guadalajara](https://mapa.guadalajara.gob.mx/).
-- México. Los Cabos, Baja California Sur. **Sistema de Gestión Catastral de los Cabos**. Basado en QGIS y PostGIS. [CartoData - Caso de Éxito Los Cabos](https://www.youtube.com/watch?v=i8vSoZroHcY).
-- México. Estado de Nuevo León. **Modernización Catastral de los Municipios de San Nicolás de los Garza, Guadalupe, San Pedro Garza García, Santa Catarina y Monterrey**. Sistemas de Gestión Catastral basados en QGIS y PostGIS.
-- México. Península de Yucatan. **Proyecto de Salvamento Arqueológico del Tren Maya**. Instituto Nacional de Antropología e Historia (INAH). Se utiliza QGIS analizar modelos digitales de elevación generados a partir de LIDAR y generar cartografía que los arqueólogos pueden usar en campo para validar los hallazgos encontrados a partir de los datos LIDAR.
-📹[Salvamento Arqueológico en el Tren Maya, Yucatán](https://www.youtube.com/watch?v=d_5N3eStpeY). Ejemplos de mapas y reportes realizados con QGIS.
+## América 
+
+### Uruguay 
+
+- Nivel Nacional. **Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)** 📄  https://www.qgis.org/en/site/about/case_studies/uruguay_mides.html# 
+
+### Honduras
+
+-  **SIG Municipal** [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084615371703926789)
+-  **Módulo de Mantenimiento Catastral SURE. qgis + OracleSpatial. Instituto de la Propiedad en Honduras**.📢  [Tuit @GolgiAlvarez](https://twitter.com/GolgiAlvarez/status/1084616445198254080)
+
+### Argentina
+
+- Pergamino (Buenos Aires, Argentina) **Carga y edición de datos en la http://ide.pergamino.gob.ar** https://www.facebook.com/pg/idepergamino/posts/ …, https://www.instagram.com/idepergamino/?hl=es … y @idepergamino 📢 [Tuit @federicogazaba](https://twitter.com/federicogazaba/status/1084433643693588480)
+- Córdoba **Cálculo de valores de mercado de los inmuebles de la provincia de Córdoba (Argentina)** 📄 https://gn-idecor.mapascordoba.gob.ar/maps/10/view 📢 [Tuit @renzo_polo](https://twitter.com/renzo_polo/status/1085558210969387015)
 - Argentina. Córdoba. **Informe Mapeo Áreas afectadas por incendios forestales 2022**. https://www.idecor.gob.ar/wp-content/uploads/2023/03/Informe-Mapeo-areas-afectadas-por-incendios-2022.pdf 📄
 - Argentina. Córdoba. **MAPAS DE COBERTURA DEL SUELO DE LA PROVINCIA DE CÓRDOBA 2017/2018**. https://www.idecor.gob.ar/wp-content/uploads/2019/04/Informe-tecnico_Mapa_Cobertura_del_Suelo.pdf 📄
 - Argentina. Córdoba. **Integra datos de la IDE y otros organismos: todo en línea y en un mismo lugar**. https://www.idecor.gob.ar/integra-datos-de-la-ide-y-otros-organismos-todo-en-linea-y-en-un-mismo-lugar/ 📄
 - Argentina. **Libro XIII Jornadas IDERA. San Juan 2018**. https://www.idera.gob.ar/images/stories/downloads/jornadas/XIII_SanJuan/Libro_Ponencias_XIII_IDERA_SanJuan_OK.pdf 📄
+
+### Colombia
+
+- **Plugin de QGIS que ayuda a capturar y mantener datos conformes con LADM_COL y a generar archivos de intercambio de INTERLIS (.XTF)** 📄https://plugins.qgis.org/plugins/asistente_ladm_col/ 📄 https://agenciaimplementacion.github.io/Asistente-LADM_COL/ 📢 [Tuit @geofumadas](https://twitter.com/geofumadas/status/1084860065658650624)
+
+### México
+
+- Estado de Sinaloa. **Instituto Catastral de Sinaloa (I.C.E.S)**. Sistema basado en componentes de código abierto: PostGIS, Geoserver, QGIS, etc. 📹[Modernización del Catastro Sinaloa - I.C.E.S](https://www.youtube.com/watch?v=iPZ7AeKwmE0)
+- Jalisco. **Catastro de Guadalajara**. Sistema basado en componentes de código abierto para la gestión de la cartografía catastral, divisiones y avalúo: PostGIS, Geoserver, QGIS.
+- Jalisco. **Catastro de Tlaquepaque**. Sistema basado en componentes de código abierto para la gestión de la cartografía catastral, divisiones y avalúo: PostGIS, Geoserver, QGIS.
+-  **Visor Urbano.** Sistema para gestión de licencias de negocio y construcción implementado en 49 municipios repartidos entre los estados de Jalisco e Hidalgo. La gestión de la cartografía de usos de suelo sobre la que se apoya la aplicación se produjo usando QGIS y está almacenada en PostGIS. En el caso de [Visor Urbano Guadalajara](https://visorurbano.com/mapa/), Jalisco, está vinculado en tiempo real con el sistema catastral anteriormente mencionado. Proyecto ganador del [Bloomberg's Mayors Challenge 2016](https://www.bloomberg.org/press/city-sao-paulo-selected-2016-grand-prize-winner-bloomberg-philanthropies-latin-american-caribbean-mayors-challenge/).
+- Guadalajara. **Dirección de Geomática del municipio**. Toda la gestión de cartografía, producción cartográfica, análisis y manejo de datos geográficos se hace usando QGIS y PostGIS, los datos se publican con servicios web OGC a través de una aplicación web creada usando Leaflet. [Mapa Guadalajara](https://mapa.guadalajara.gob.mx/).
+- Los Cabos, Baja California Sur. **Sistema de Gestión Catastral de los Cabos**. Basado en QGIS y PostGIS. [CartoData - Caso de Éxito Los Cabos](https://www.youtube.com/watch?v=i8vSoZroHcY).
+- Estado de Nuevo León. **Modernización Catastral de los Municipios de San Nicolás de los Garza, Guadalupe, San Pedro Garza García, Santa Catarina y Monterrey**. Sistemas de Gestión Catastral basados en QGIS y PostGIS.
+- Península de Yucatan. **Proyecto de Salvamento Arqueológico del Tren Maya**. Instituto Nacional de Antropología e Historia (INAH). Se utiliza QGIS analizar modelos digitales de elevación generados a partir de LIDAR y generar cartografía que los arqueólogos pueden usar en campo para validar los hallazgos encontrados a partir de los datos LIDAR.
+📹[Salvamento Arqueológico en el Tren Maya, Yucatán](https://www.youtube.com/watch?v=d_5N3eStpeY). Ejemplos de mapas y reportes realizados con QGIS.
+- Distrito Federal de Ciudad de México. **Plugins para la gestión del Sistema de Catastro** Se migró la herramientas actual, que tiene licenciamiento (microstation) a un plugins en QGIS que reemplaza las funcionalidades, también se sumó la migración de archivos de este software a **Postgres** mejorando la gestión, versionado, acceso y versatilidad de la información. Esto permitió la gestión de la información alfanumérica conjuntamente con la geoespacial. Esto hizo que se avanzar 20 años en tecnología y dar lugar a la flexibilidad que QGIS provee para el tratamiento de la información.
