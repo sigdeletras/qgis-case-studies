@@ -80,6 +80,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - **Survey and Classification of Large Woody Debris (LWD) in Streams Using Generated Low-Cost Geomatic Products**. Ortega-Terol, D.; Moreno, M.A.; Hernández-López, D.; Rodríguez-Gonzálvez, P.  Remote Sens. 2014, 6, 11770-11790. 📕 https://doi.org/10.3390/rs61211770
 - **Hacia la implantación de una infraestructura de datos de imágenes de satélite en el Instituto Geográfico Nacional con Open Data Cube y QGIS**. Ortega Terol, D.; Pérez Martín, B.  Revista MAPPING. Vol. 29, 203, 6-17. noviembre-diciembre. 2021. ISSN: 1131-9100. 📕 https://ojs.revistamapping.com/MAPPING/issue/view/213/MAPPING_203
 - **Proyecto CianoMOD. Procedimientos para el análisis de parámetros de calidad de aguas continentales relacionados con los afloramientos de cianobaceterias**. Pascual-Aguilar, J. & Morón-López, Jesús & De Bustamante, Irene & Belda-Carrasco, Rafael & Carreño, Francisco & Pompa-Pernia, Angel & Rodriguez-Sanchez, M.C. & Vaquero, Joaquin & Mateos, Myriam & Simon, Clara & Sipols, Ana & Mariñas-Collado, Irene. (2022). 📄 https://cpaisaje.org/cg8-nuevo-numero-de-cuadernos-de-geomatica-aplicada-new-issue-of-notes-on-geomatics/
+- **Proyectos del Centro Oceanográfico costero del Instituto Español de Oceanografía dedicado a la investigación marina**. Fases de la evaluación de stocks de pequeños pelágicos (boquerón, sardina...) mediante métodos acústicos.  IEO Cádiz. 📢 [Tuit Jorge Tornero](https://twitter.com/imasdemase/status/1666907692256882689)
 
 
 ## América 
