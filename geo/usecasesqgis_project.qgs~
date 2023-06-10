@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveUserFull="pasoriano" saveDateTime="2023-06-10T08:37:55" saveUser="pasoriano" version="3.28.5-Firenze" projectname="">
+<qgis saveUserFull="pasoriano" saveDateTime="2023-06-10T09:17:57" saveUser="pasoriano" version="3.28.5-Firenze" projectname="">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -28,7 +28,9 @@
     </layer-tree-layer>
     <layer-tree-layer patch_size="0,0" checked="Qt::Checked" name="usecasesqgis" legend_split_behavior="0" providerKey="ogr" id="usecasesqgis_3c229667_e2fa_429d_97e8_fd4c20d544f4" expanded="1" legend_exp="" source="./usecasesqgis.geojson">
       <customproperties>
-        <Option/>
+        <Option type="Map">
+          <Option name="showFeatureCount" value="1" type="int"/>
+        </Option>
       </customproperties>
     </layer-tree-layer>
     <layer-tree-layer patch_size="0,0" checked="Qt::Checked" name="OpenStreetMap" legend_split_behavior="0" providerKey="wms" id="OpenStreetMap_2a213fd5_90b0_4801_8d67_116aeb0da94b" expanded="1" legend_exp="" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=http://a.tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0">
@@ -65,10 +67,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>degrees</units>
     <extent>
-      <xmin>-64.31049173546026054</xmin>
-      <ymin>-31.47962899108190982</ymin>
-      <xmax>-64.05612314546323205</xmax>
-      <ymax>-31.30474993116141036</ymax>
+      <xmin>-3.69276719990251179</xmin>
+      <ymin>40.28104661966792577</ymin>
+      <xmax>-3.67060702335967504</xmax>
+      <ymax>40.6793994791757072</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -94,7 +96,7 @@
         <legendlayerfile isInOverview="0" layerid="GeoCoding_Plugin_Results_adfdb82c_1f30_4526_840b_333655971b51" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer checked="Qt::Checked" showFeatureCount="0" name="usecasesqgis" drawingOrder="-1" open="true">
+    <legendlayer checked="Qt::Checked" showFeatureCount="1" name="usecasesqgis" drawingOrder="-1" open="true">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="usecasesqgis_3c229667_e2fa_429d_97e8_fd4c20d544f4" visible="1"/>
       </filegroup>
@@ -169,16 +171,16 @@
   <projectlayers>
     <maplayer simplifyMaxScale="1" refreshOnNotifyEnabled="0" labelsEnabled="1" simplifyAlgorithm="0" minScale="100000000" refreshOnNotifyMessage="" type="vector" simplifyLocal="1" simplifyDrawingHints="1" geometry="Point" wkbType="Point" autoRefreshTime="0" simplifyDrawingTol="1" autoRefreshEnabled="0" symbologyReferenceScale="-1" hasScaleBasedVisibilityFlag="0" maxScale="0" styleCategories="AllStyleCategories" legendPlaceholderImage="" readOnly="0">
       <extent>
-        <xmin>-64.18341929999999707</xmin>
+        <xmin>-74.08356430000000614</xmin>
         <ymin>-31.41668669999999963</ymin>
         <xmax>-64.18341929999999707</xmax>
-        <ymax>-31.41668669999999963</ymax>
+        <ymax>4.65295389999999998</ymax>
       </extent>
       <wgs84extent>
-        <xmin>-64.18341929999999707</xmin>
+        <xmin>-74.08356430000000614</xmin>
         <ymin>-31.41668669999999963</ymin>
         <xmax>-64.18341929999999707</xmax>
-        <ymax>-31.41668669999999963</ymax>
+        <ymax>4.65295389999999998</ymax>
       </wgs84extent>
       <id>GeoCoding_Plugin_Results_adfdb82c_1f30_4526_840b_333655971b51</id>
       <datasource>memory?geometry=Point&amp;crs=EPSG:4326&amp;field=address:string(0,0)</datasource>
@@ -1247,7 +1249,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial miny="0" crs="" maxx="0" maxy="0" minx="0" minz="0" dimensions="2" maxz="0"/>
+          <spatial miny="0" crs="EPSG:4326" maxx="0" maxy="0" minx="0" minz="0" dimensions="2" maxz="0"/>
           <temporal>
             <period>
               <start></start>
@@ -1413,8 +1415,9 @@
       <renderer-v2 enableorderby="0" attr="Level" type="categorizedSymbol" forceraster="0" referencescale="-1" symbollevels="0">
         <categories>
           <category value="Municipaly" type="string" symbol="0" render="true" label="Municipaly"/>
-          <category value="Regional" type="string" symbol="1" render="true" label="Regional"/>
-          <category value="" type="string" symbol="2" render="true" label=""/>
+          <category value="National" type="string" symbol="1" render="true" label="National"/>
+          <category value="Regional" type="string" symbol="2" render="true" label="Regional"/>
+          <category value="" type="string" symbol="3" render="true" label=""/>
         </categories>
         <symbols>
           <symbol is_animated="0" name="0" type="marker" force_rhr="0" alpha="1" frame_rate="10" clip_to_extent="1">
@@ -1429,7 +1432,7 @@
               <Option type="Map">
                 <Option name="angle" value="0" type="QString"/>
                 <Option name="cap_style" value="square" type="QString"/>
-                <Option name="color" value="64,135,221,255" type="QString"/>
+                <Option name="color" value="100,165,240,255" type="QString"/>
                 <Option name="horizontal_anchor_point" value="1" type="QString"/>
                 <Option name="joinstyle" value="bevel" type="QString"/>
                 <Option name="name" value="circle" type="QString"/>
@@ -1468,7 +1471,7 @@
               <Option type="Map">
                 <Option name="angle" value="0" type="QString"/>
                 <Option name="cap_style" value="square" type="QString"/>
-                <Option name="color" value="235,29,122,255" type="QString"/>
+                <Option name="color" value="119,210,122,255" type="QString"/>
                 <Option name="horizontal_anchor_point" value="1" type="QString"/>
                 <Option name="joinstyle" value="bevel" type="QString"/>
                 <Option name="name" value="circle" type="QString"/>
@@ -1507,7 +1510,46 @@
               <Option type="Map">
                 <Option name="angle" value="0" type="QString"/>
                 <Option name="cap_style" value="square" type="QString"/>
-                <Option name="color" value="141,230,67,255" type="QString"/>
+                <Option name="color" value="204,53,199,255" type="QString"/>
+                <Option name="horizontal_anchor_point" value="1" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="name" value="circle" type="QString"/>
+                <Option name="offset" value="0,0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="outline_color" value="255,255,255,255" type="QString"/>
+                <Option name="outline_style" value="solid" type="QString"/>
+                <Option name="outline_width" value="0" type="QString"/>
+                <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="outline_width_unit" value="MM" type="QString"/>
+                <Option name="scale_method" value="diameter" type="QString"/>
+                <Option name="size" value="2.6" type="QString"/>
+                <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="size_unit" value="MM" type="QString"/>
+                <Option name="vertical_anchor_point" value="1" type="QString"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol is_animated="0" name="3" type="marker" force_rhr="0" alpha="1" frame_rate="10" clip_to_extent="1">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer class="SimpleMarker" pass="0" enabled="1" locked="0">
+              <Option type="Map">
+                <Option name="angle" value="0" type="QString"/>
+                <Option name="cap_style" value="square" type="QString"/>
+                <Option name="color" value="215,157,86,255" type="QString"/>
                 <Option name="horizontal_anchor_point" value="1" type="QString"/>
                 <Option name="joinstyle" value="bevel" type="QString"/>
                 <Option name="name" value="circle" type="QString"/>
@@ -1576,6 +1618,9 @@
             </layer>
           </symbol>
         </source-symbol>
+        <colorramp name="[source]" type="randomcolors">
+          <Option/>
+        </colorramp>
         <rotation/>
         <sizescale/>
       </renderer-v2>
@@ -1670,8 +1715,8 @@
             <Option value="Project || ' '  ||  &quot;Place&quot; " type="QString"/>
           </Option>
           <Option name="embeddedWidgets/count" value="0" type="QString"/>
-          <Option name="variableNames" type="invalid"/>
-          <Option name="variableValues" type="invalid"/>
+          <Option name="variableNames"/>
+          <Option name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>
@@ -1814,6 +1859,13 @@
             </config>
           </editWidget>
         </field>
+        <field name="id" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
       </fieldConfiguration>
       <aliases>
         <alias field="Project" name="" index="0"/>
@@ -1824,6 +1876,7 @@
         <alias field="Link" name="" index="5"/>
         <alias field="Description" name="" index="6"/>
         <alias field="Video" name="" index="7"/>
+        <alias field="id" name="" index="8"/>
       </aliases>
       <defaults>
         <default field="Project" applyOnUpdate="0" expression=""/>
@@ -1834,6 +1887,7 @@
         <default field="Link" applyOnUpdate="0" expression=""/>
         <default field="Description" applyOnUpdate="0" expression=""/>
         <default field="Video" applyOnUpdate="0" expression=""/>
+        <default field="id" applyOnUpdate="0" expression=""/>
       </defaults>
       <constraints>
         <constraint constraints="0" field="Project" exp_strength="0" notnull_strength="0" unique_strength="0"/>
@@ -1844,6 +1898,7 @@
         <constraint constraints="0" field="Link" exp_strength="0" notnull_strength="0" unique_strength="0"/>
         <constraint constraints="0" field="Description" exp_strength="0" notnull_strength="0" unique_strength="0"/>
         <constraint constraints="0" field="Video" exp_strength="0" notnull_strength="0" unique_strength="0"/>
+        <constraint constraints="0" field="id" exp_strength="0" notnull_strength="0" unique_strength="0"/>
       </constraints>
       <constraintExpressions>
         <constraint field="Project" exp="" desc=""/>
@@ -1854,14 +1909,15 @@
         <constraint field="Link" exp="" desc=""/>
         <constraint field="Description" exp="" desc=""/>
         <constraint field="Video" exp="" desc=""/>
+        <constraint field="id" exp="" desc=""/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
         <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
       </attributeactions>
-      <attributetableconfig actionWidgetStyle="dropDown" sortOrder="0" sortExpression="&quot;Country&quot;">
+      <attributetableconfig actionWidgetStyle="dropDown" sortOrder="0" sortExpression="&quot;id&quot;">
         <columns>
-          <column hidden="0" name="Project" type="field" width="505"/>
+          <column hidden="0" name="Project" type="field" width="553"/>
           <column hidden="0" name="Place" type="field" width="230"/>
           <column hidden="0" name="Level" type="field" width="-1"/>
           <column hidden="0" name="Country" type="field" width="-1"/>
@@ -1869,7 +1925,8 @@
           <column hidden="0" name="Link" type="field" width="-1"/>
           <column hidden="1" type="actions" width="-1"/>
           <column hidden="0" name="Video" type="field" width="-1"/>
-          <column hidden="0" name="Description" type="field" width="149"/>
+          <column hidden="0" name="id" type="field" width="-1"/>
+          <column hidden="0" name="Description" type="field" width="387"/>
         </columns>
       </attributetableconfig>
       <conditionalstyles>
@@ -1909,6 +1966,7 @@ def my_form_open(dialog, layer, feature):
         <field name="Place" editable="1"/>
         <field name="Project" editable="1"/>
         <field name="Video" editable="1"/>
+        <field name="id" editable="1"/>
       </editable>
       <labelOnTop>
         <field labelOnTop="0" name="Country"/>
@@ -1919,6 +1977,7 @@ def my_form_open(dialog, layer, feature):
         <field labelOnTop="0" name="Place"/>
         <field labelOnTop="0" name="Project"/>
         <field labelOnTop="0" name="Video"/>
+        <field labelOnTop="0" name="id"/>
       </labelOnTop>
       <reuseLastValue>
         <field reuseLastValue="0" name="Country"/>
@@ -1929,6 +1988,7 @@ def my_form_open(dialog, layer, feature):
         <field reuseLastValue="0" name="Place"/>
         <field reuseLastValue="0" name="Project"/>
         <field reuseLastValue="0" name="Video"/>
+        <field reuseLastValue="0" name="id"/>
       </reuseLastValue>
       <dataDefinedFieldProperties/>
       <widgets/>
@@ -2024,7 +2084,7 @@ def my_form_open(dialog, layer, feature):
   <Bookmarks/>
   <ProjectViewSettings rotation="0" UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent ymax="-31.29431236514654913" ymin="-31.49006655709677105" xmin="-64.31049173546026054" xmax="-64.05612314546323205">
+    <DefaultViewExtent ymax="40.6793994791757072" ymin="40.28104661966792577" xmin="-3.94050265520843501" xmax="-3.42287156805375181">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
         <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
