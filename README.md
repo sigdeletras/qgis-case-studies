@@ -76,10 +76,10 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 #### Administración General del Estado
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
 - **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco Sistema AMBEMAR DSS 📕 http://eemm.ihcantabria.com/wp-content/uploads/2017/11/AMBEMAR_Jornadas-EERR_17.pdf 📢 [Tuit @ffpipe](https://twitter.com/ffpipe/status/1084415979558457344)
-- **Uso de PostgreSQL, QGIS y R para estudiar las interaccio- nes entre la actividad de las barcas de pesca y los movimientos espaciales de un depredador marino oportunista** ICM-CSIC Presentación en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6805](https://diobma.udg.edu/handle/10256.1/6805)
+- **Uso de PostgreSQL, QGIS y R para estudiar las interacciones entre la actividad de las barcas de pesca y los movimientos espaciales de un depredador marino oportunista** ICM-CSIC Presentación en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6805](https://diobma.udg.edu/handle/10256.1/6805)
 - **Survey and Classification of Large Woody Debris (LWD) in Streams Using Generated Low-Cost Geomatic Products**. Ortega-Terol, D.; Moreno, M.A.; Hernández-López, D.; Rodríguez-Gonzálvez, P.  Remote Sens. 2014, 6, 11770-11790. 📕 https://doi.org/10.3390/rs61211770
 - **Hacia la implantación de una infraestructura de datos de imágenes de satélite en el Instituto Geográfico Nacional con Open Data Cube y QGIS**. Ortega Terol, D.; Pérez Martín, B.  Revista MAPPING. Vol. 29, 203, 6-17. noviembre-diciembre. 2021. ISSN: 1131-9100. 📕 https://ojs.revistamapping.com/MAPPING/issue/view/213/MAPPING_203
-- **Proyecto CianoMOD. Procedimientos para el análisis de parámetros de calidad de aguas continentales relacionados con los afloramientos de cianobaceterias**. Pascual-Aguilar, J. & Morón-López, Jesús & De Bustamante, Irene & Belda-Carrasco, Rafael & Carreño, Francisco & Pompa-Pernia, Angel & Rodriguez-Sanchez, M.C. & Vaquero, Joaquin & Mateos, Myriam & Simon, Clara & Sipols, Ana & Mariñas-Collado, Irene. (2022). 📄 https://diobma.udg.edu/handle/10256.1/6805
+- **Proyecto CianoMOD. Procedimientos para el análisis de parámetros de calidad de aguas continentales relacionados con los afloramientos de cianobaceterias**. Pascual-Aguilar, J. & Morón-López, Jesús & De Bustamante, Irene & Belda-Carrasco, Rafael & Carreño, Francisco & Pompa-Pernia, Angel & Rodriguez-Sanchez, M.C. & Vaquero, Joaquin & Mateos, Myriam & Simon, Clara & Sipols, Ana & Mariñas-Collado, Irene. (2022). 📄 https://cpaisaje.org/cg8-nuevo-numero-de-cuadernos-de-geomatica-aplicada-new-issue-of-notes-on-geomatics/
 
 
 ## América 
@@ -100,7 +100,7 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - Argentina. Córdoba. **Informe Mapeo Áreas afectadas por incendios forestales 2022**. https://www.idecor.gob.ar/wp-content/uploads/2023/03/Informe-Mapeo-areas-afectadas-por-incendios-2022.pdf 📄
 - Argentina. Córdoba. **MAPAS DE COBERTURA DEL SUELO DE LA PROVINCIA DE CÓRDOBA 2017/2018**. https://www.idecor.gob.ar/wp-content/uploads/2019/04/Informe-tecnico_Mapa_Cobertura_del_Suelo.pdf 📄
 - Argentina. Córdoba. **Integra datos de la IDE y otros organismos: todo en línea y en un mismo lugar**. https://www.idecor.gob.ar/integra-datos-de-la-ide-y-otros-organismos-todo-en-linea-y-en-un-mismo-lugar/ 📄
-- Argentina. **Libro XIII Jornadas IDERA. San Juan 2018**. https://www.idera.gob.ar/images/stories/downloads/jornadas/XIII_SanJuan/Libro_Ponencias_XIII_IDERA_SanJuan_OK.pdf 📄
+- Argentina. **Libro XIII Jornadas IDERA. San Juan 2018**. https://www.idera.gob.ar/images/stories/downloads/jornadas/XIII_SanJuan/Libro_Ponencias_XIII_IDERA_SanJuan_OK.pdf 📄 (Hay varios ejemplos. Hay que revisar el índice para sacar los casos de usos)
 
 ### Colombia
 
