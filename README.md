@@ -73,10 +73,13 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 #### Navarra
 - **Uso de QGIS como herramienta de sobremesa, de especial utilidad para facilitar el acceso a la información geoespacial por parte de las entidades locales** Gobierno de Navarra - SITNA. 📢 [Comentario de Carlos Sabando, Responsable equipo GeoWeb en Tracasa Instrumental, en hilo de Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7071493537942372353/)  📄 [Noticia de SITNA](https://pcsitna.navarra.es/Lists/Noticias/Ver.aspx?ID=295)
 
-#### Nacional
+#### Administración General del Estado
 - **"Evaluación del impacto del cambio climático en los recursos hídricos y sequías en España"**. Centro de Estudios y Experimentación de Obras Públicas (CEDEX) para la Oficina Española del Cambio Climático (OECC). 📄  https://www.adaptecca.es/cambio-climatico-y-recursos-hidricos-en-espana-aplicacion-camrec 📢 [Tuit fran_raga](https://twitter.com/fran_raga/status/1084084861831393280)
 - **Sistema de ayuda a la toma de decisión en la evaluación de impacto ambiental en proyectos de energías marinas** MITECO 📕 https://issuu.com/ctnaval/docs/miteco Sistema AMBEMAR DSS 📕 http://eemm.ihcantabria.com/wp-content/uploads/2017/11/AMBEMAR_Jornadas-EERR_17.pdf 📢 [Tuit @ffpipe](https://twitter.com/ffpipe/status/1084415979558457344)
 - **Uso de PostgreSQL, QGIS y R para estudiar las interaccio- nes entre la actividad de las barcas de pesca y los movimientos espaciales de un depredador marino oportunista** ICM-CSIC Presentación en Jornadas SIG Libre Girona 2022 🎥 [https://diobma.udg.edu/handle/10256.1/6805](https://diobma.udg.edu/handle/10256.1/6805)
+- **Survey and Classification of Large Woody Debris (LWD) in Streams Using Generated Low-Cost Geomatic Products**. Ortega-Terol, D.; Moreno, M.A.; Hernández-López, D.; Rodríguez-Gonzálvez, P.  Remote Sens. 2014, 6, 11770-11790. 📕 https://doi.org/10.3390/rs61211770
+- **Hacia la implantación de una infraestructura de datos de imágenes de satélite en el Instituto Geográfico Nacional con Open Data Cube y QGIS**. Ortega Terol, D.; Pérez Martín, B.  Revista MAPPING. Vol. 29, 203, 6-17. noviembre-diciembre. 2021. ISSN: 1131-9100. 📕 https://ojs.revistamapping.com/MAPPING/issue/view/213/MAPPING_203
+- **Proyecto CianoMOD. Procedimientos para el análisis de parámetros de calidad de aguas continentales relacionados con los afloramientos de cianobaceterias**. Pascual-Aguilar, J. & Morón-López, Jesús & De Bustamante, Irene & Belda-Carrasco, Rafael & Carreño, Francisco & Pompa-Pernia, Angel & Rodriguez-Sanchez, M.C. & Vaquero, Joaquin & Mateos, Myriam & Simon, Clara & Sipols, Ana & Mariñas-Collado, Irene. (2022). 📄 https://diobma.udg.edu/handle/10256.1/6805
 
 
 ## América 
@@ -94,6 +97,10 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 
 - Pergamino (Buenos Aires, Argentina) **Carga y edición de datos en la http://ide.pergamino.gob.ar** https://www.facebook.com/pg/idepergamino/posts/ …, https://www.instagram.com/idepergamino/?hl=es … y @idepergamino 📢 [Tuit @federicogazaba](https://twitter.com/federicogazaba/status/1084433643693588480)
 - Córdoba **Cálculo de valores de mercado de los inmuebles de la provincia de Córdoba (Argentina)** 📄 https://gn-idecor.mapascordoba.gob.ar/maps/10/view 📢 [Tuit @renzo_polo](https://twitter.com/renzo_polo/status/1085558210969387015)
+- Argentina. Córdoba. **Informe Mapeo Áreas afectadas por incendios forestales 2022**. https://www.idecor.gob.ar/wp-content/uploads/2023/03/Informe-Mapeo-areas-afectadas-por-incendios-2022.pdf 📄
+- Argentina. Córdoba. **MAPAS DE COBERTURA DEL SUELO DE LA PROVINCIA DE CÓRDOBA 2017/2018**. https://www.idecor.gob.ar/wp-content/uploads/2019/04/Informe-tecnico_Mapa_Cobertura_del_Suelo.pdf 📄
+- Argentina. Córdoba. **Integra datos de la IDE y otros organismos: todo en línea y en un mismo lugar**. https://www.idecor.gob.ar/integra-datos-de-la-ide-y-otros-organismos-todo-en-linea-y-en-un-mismo-lugar/ 📄
+- Argentina. **Libro XIII Jornadas IDERA. San Juan 2018**. https://www.idera.gob.ar/images/stories/downloads/jornadas/XIII_SanJuan/Libro_Ponencias_XIII_IDERA_SanJuan_OK.pdf 📄
 
 ### Colombia
 
@@ -111,6 +118,3 @@ Para un seguimiento en Twitter seguir la etiqueta [#QGISadmon](https://twitter.c
 - Península de Yucatan. **Proyecto de Salvamento Arqueológico del Tren Maya**. Instituto Nacional de Antropología e Historia (INAH). Se utiliza QGIS analizar modelos digitales de elevación generados a partir de LIDAR y generar cartografía que los arqueólogos pueden usar en campo para validar los hallazgos encontrados a partir de los datos LIDAR.
 📹[Salvamento Arqueológico en el Tren Maya, Yucatán](https://www.youtube.com/watch?v=d_5N3eStpeY). Ejemplos de mapas y reportes realizados con QGIS.
 - Distrito Federal de Ciudad de México. **Plugins para la gestión del Sistema de Catastro** Se migró la herramientas actual, que tiene licenciamiento (microstation) a un plugins en QGIS que reemplaza las funcionalidades, también se sumó la migración de archivos de este software a **Postgres** mejorando la gestión, versionado, acceso y versatilidad de la información. Esto permitió la gestión de la información alfanumérica conjuntamente con la geoespacial. Esto hizo que se avanzar 20 años en tecnología y dar lugar a la flexibilidad que QGIS provee para el tratamiento de la información.
-
-
-
